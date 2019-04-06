@@ -1,0 +1,22 @@
+body {
+  background-image: url('http://codex-themes.com/codeus/wp-content/plugins/codeus_theme_control/bg/6.jpg');
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h2:first-of-type {
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  margin-top: 40px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
